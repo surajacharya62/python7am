@@ -14,4 +14,4 @@ if nepali < 35 and english < 35 and math < 35 and science < 35 and population < 
         print("Division: Third")
     else:
         print("You have least marks in the subject. Please reattempt")
-elif nepali > 35 and
+elif nepali < 35 and english > 35:
